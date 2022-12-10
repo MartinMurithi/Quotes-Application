@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Quotes Application</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="imageButtonDescription_shareButton">An image button to share content</string>
+    <string name="imageButtonDescription_downloadButton">An image button to download content</string>
+    <string name="imageButtonDescription_copyButton">An image button to copy content</string>
+
+</resources>
